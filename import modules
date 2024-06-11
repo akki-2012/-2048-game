@@ -1,3 +1,0 @@
-# ==== Importing all necessary libraries for PythonGeeks Python 2048 Game
-from tkinter import *
-import random
