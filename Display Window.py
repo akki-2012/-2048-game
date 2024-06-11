@@ -8,7 +8,7 @@ class Play_2048(Tk):
    high_score = 0
    game_score = 0
    highest_score = 0
-
+   
    # ==== creating user window
    def __init__(self, *args, **kwargs):
        Tk.__init__(self, *args, **kwargs)
